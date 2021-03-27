@@ -3,7 +3,7 @@
 **About:** I am intending to keep all my edited notes in this repo, to centralize systems
 
 **Source:**
-Applied Geostatistics for Reservoir Characterization
+_Applied Geostatistics for Reservoir Characterization_
 Mohan Kelkar and Godofredo Perez
 2002
 264 pp.; Softcover
